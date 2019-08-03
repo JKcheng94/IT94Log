@@ -1,1 +1,1 @@
-git audo submit test. 
+git auto submit test. 
